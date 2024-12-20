@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vokabelztrainer", "Vokabelztrainer\Vokabelztrainer.csproj", "{23ED7AFC-62F4-40B2-A0C3-CAF0DD1A1FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23ED7AFC-62F4-40B2-A0C3-CAF0DD1A1FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23ED7AFC-62F4-40B2-A0C3-CAF0DD1A1FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23ED7AFC-62F4-40B2-A0C3-CAF0DD1A1FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23ED7AFC-62F4-40B2-A0C3-CAF0DD1A1FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D902BE83-B123-40A4-81F9-18DE8EEBBF4D}
+	EndGlobalSection
+EndGlobal
